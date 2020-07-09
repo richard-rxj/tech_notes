@@ -1,6 +1,7 @@
 # tech_notes
 
 ## python
+ * https://www.datacamp.com/community/tutorials/networkx-python-graph-tutorial     Graph Library Tutorial
  * http://users.iems.northwestern.edu/~nelsonb/IEMS435/PythonSim.pdf
  * https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/
  * https://www.grotto-networking.com/DiscreteEventPython.html
